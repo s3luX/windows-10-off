@@ -1,2 +1,12 @@
 # windows-10-off
-Remove the Microsoft Windows 10 updates that are sharing your personal data, hogging your bandwidth, downloading additional files without your approval (~6GB!) and more.)
+Remove the Microsoft Windows 10 telemetry and its tool from Micro$oft that are sharing your personal data, hogging your bandwidth, downloading additional files without your approval (~6GB!) and more.
+
+# For more details about the KB (updates) that are being removed visit the "KB Descriptions.txt" file in the repository.
+
+# Instructions:
+  Download and unpack the .zip file
+  Right click the "win-10-off.bat" file and click "Run as administrator"
+  Wait for the script to finish and it will prompt you that your PC will reboot
+  Save all the files you have and let the PC reboot for the changes to take affect
+
+Have fun and don`t let M$ spy on you.
