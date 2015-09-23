@@ -19,7 +19,6 @@ goto uninst_updates
 pause >nul
 exit
 
-
 :uninst_updates
 	echo uninstalling updates ...
 	echo Removing KB971033 (license validation / anti piracy)
