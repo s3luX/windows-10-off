@@ -11,3 +11,6 @@ Visit the "KB Descriptions.txt" file in the repository for details on which KBs 
 	- Save all the files you have and let the PC reboot for the changes to take affect
 
 Have fun and don`t let M$ spy on you.
+
+
+# More updates coming!
