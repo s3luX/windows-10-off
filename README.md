@@ -1,6 +1,8 @@
 # windows-10-off
 Remove the Microsoft Windows 10 telemetry and its tool from Micro$oft that are sharing your personal data, hogging your bandwidth, downloading additional files without your approval (~6GB!) and more.
 
+The script works for Windows 7 all up to Windows 10.
+
 # For more details about the KB (updates)
 Visit the "KB Descriptions.txt" file in the repository for details on which KBs are being removed and their description.
 
