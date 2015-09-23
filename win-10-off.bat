@@ -52,9 +52,6 @@ echo  - proceeding to next update
 echo Delete KB3050267 (update for windows update client for windows 8.1 june 2015)
 start "title" /b /wait wusa.exe /kb:3050267 /uninstall /quiet /norestart
 echo  - proceeding to next update
-echo Delete KB3065987 (update for Windows Update on Win7/Server 2008R2)
-start "title" /b /wait wusa.exe /kb:3065987 /uninstall /quiet /norestart
-echo  - proceeding to next update
 echo Delete KB3068708 (telemetry)
 start "title" /b /wait wusa.exe /kb:3068708 /uninstall /quiet /norestart
 echo  - proceeding to next update
