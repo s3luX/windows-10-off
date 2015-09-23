@@ -1,0 +1,59 @@
+# KB971033 - Windows Activation Technologies 
+Windows Activation Technologies helps you confirm that the copy of Windows 7 that is running on your computer is genuine. Additionally, Windows Activation Technologies helps protect against the risks of counterfeit software. Windows Activation Technologies in Windows 7 consists of activation and validation components that contain anti-piracy features.
+Activation is an anti-piracy technology that verifies the product key for the copy of Windows 7 that is running on your computer. The product key is a 25-character code that is located on the Certificate of Authenticity label or on the proof of license label. These labels are included with each genuine copy of Windows. A genuine product key can only be used on the number of computers that are specified in a software license.
+Validation is an online process that enables you to verify that the copy of Windows 7 that is running on your computer is activated correctly and is genuine.
+--
+# KB2952664 - Compatibility update for upgrading Windows 7
+This update helps Microsoft make improvements to the current operating system in order to ease the upgrade experience to the latest version of Windows.
+--
+# KB2976978 - Compatibility update for Windows 8.1 and Windows 8
+This update performs diagnostics on the Windows systems that participate in the Windows Customer Experience Improvement Program. These diagnostics help determine whether compatibility issues may be encountered when the latest Windows operating system is installed. This update will help Microsoft and its partners ensure compatibility for customers who want to install the latest Windows operating system.
+--
+# KB2977759 - Compatibility update for Windows 7 RTM
+This update performs diagnostics on the Windows systems that participate in the Windows Customer Experience Improvement Program. These diagnostics help determine whether compatibility issues may be encountered when the latest Windows operating system is installed. This update will help Microsoft and its partners ensure compatibility for customers who want to install the latest Windows operating system.
+--
+# KB2990214 - Update that enables you to upgrade from Windows 7 to a later version of Windows
+An update that enables you to upgrade your computer from Windows 7 Service Pack 1 (SP1) to a later version of Windows.
+--
+# KB3012973 - Upgrade to Windows 10 Pro itself
+This update is the initial upgrade to the Windows 10 OS.
+--
+# KB3014460 - Windows Insider Preview
+Windows Insider Preview is here today, but it’s a long way from done. We’re going to make it faster, better, more fun at parties...you get the idea. Join the Windows Insider Program to make sure you get all the new features that are on the way. If you’re okay with a moving target and don’t want to miss out on the latest stuff, keep reading. Insider Preview could be just your thing. 
+Yea right...
+--
+# KB3015249 - Telemetry
+Upgrade that adds telemetry points to consent.exe in Windows 8.1 and Windows 7.
+--
+# KB3021917 - Update to Windows 7 SP1 for performance improvements
+This update performs diagnostics in Windows 7 Service Pack 1 (SP1) in order to determine whether performance issues may be encountered when the latest Windows operating system is installed. Telemetry is sent back to Microsoft for those computers that participate in the Windows Customer Experience Improvement Program (CEIP). This update will help Microsoft and its partners deliver better system performance for customers who are seeking to install the latest Windows operating system.
+--
+# KB3022345 - Update for customer experience and diagnostic telemetry (Also found as # KB3080149 - later removed also in this script)
+This package introduces the Diagnostic and Telemetry service on existing devices. This package also supports applications that are subscribed to Visual Studio Application Insights. The content in this article was revised to more accurately reflect the functionality of the package and related Windows Service.
+--
+# KB3035583 - Update installs Get Windows 10 app in Windows 8.1 and Windows 7 SP1
+This update installs the Get Windows 10 app, which helps users understand their Windows 10 upgrade options and device readiness. For more information about Windows 10, see Windows 10. This update applies to Windows 8.1 or Windows 7 Service Pack 1 (SP1) and Internet Explorer 11 (IE11). Before you install this update, check out the Prerequisites section.
+--
+# KB3044374 - Update that enables you to upgrade from Windows 8.1 to Windows 10
+An update that enables you to upgrade your computer from Windows 8.1 to a Windows 10.
+--
+# KB3050265 - Windows Update Client for Windows 7: June 2015
+Microsoft is making Windows 10 available for free for one year from the date of availability to Windows 7 and Windows 8.1 customers for non-Enterprise editions. If you have Windows 7 or Windows 8.1 Pro deployed in your organization, Windows 10 will be offered to you. Computers that have this Group Policy object enabled will never detect, download, or install an upgrade to the latest version of Windows. 
+--
+# KB3050267 - Windows Update Client for Windows 8.1: June 2015
+Microsoft is making Windows 10 available for free for one year from the date of availability to Windows 7 and Windows 8.1 customers for non-Enterprise editions. If you have Windows 7 or Windows 8.1 Pro deployed in your organization, Windows 10 will be offered to you. Computers that have this Group Policy object enabled will never detect, download, or install an upgrade to the latest version of Windows. 
+--
+# KB3068708 - Update for customer experience and diagnostic telemetry
+An update for Windows 8.1, Windows Server 2012 R2, Windows 7 Service Pack 1 (SP1), and Windows Server 2008 R2 SP1. 
+--
+# KB3075249 - Update that adds telemetry points to consent.exe in Windows 8.1 and Windows 7
+An update that adds telemetry points to consent.exe in Windows 8.1, Windows RT 8.1, Windows Server 2012 R2, Windows 7 Service Pack 1 (SP1), and Windows Server 2008 R2 SP1.
+--
+# KB3075851 - Windows Update Client for Windows 7 and Windows Server 2008 R2: August 2015
+An update that contains some improvements to Windows Update Client in Windows 7 Service Pack 1 (SP1) and Windows Server 2008 R2 SP1. This update also resolves an issue in which certain Windows Update operations fail when you install Windows Update Client for Windows 7 and Windows Server 2008 R2: July 2015 (3065987) on Windows 7 Embedded editions. 
+--
+# KB3075853 - Windows Update Client for Windows 8.1 and Windows Server 2012 R2: August 2015
+An update that contains some improvements to Windows Update Client in Windows 8.1, Windows RT 8.1, or Windows Server 2012 R2.
+--
+# KB3080149 - Update for customer experience and diagnostic telemetry
+An update for Windows 8.1, Windows Server 2012 R2, Windows 7 Service Pack 1 (SP1), and Windows Server 2008 R2 SP1. 
