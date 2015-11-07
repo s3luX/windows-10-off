@@ -24,6 +24,11 @@ To turn this feature OFF, follow these given steps:
 	Under Choose How Updates are Installed, select Choose how updates are delivered
 	Disable the toggle under Updated from More than One Place
 
+# Disable the automatic downloading of Windows 10
+- Install KB3065987 (for Windows 7) or KB3065988 (for Windows 8.1) updates from Microsoft's official website, depending on the operating system you are using
+- Reboot your PC
+- Run the "disable_auto_download_of_win10.reg"
+
 
 Have fun and don`t let M$ spy on you.
 
