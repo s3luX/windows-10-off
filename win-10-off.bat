@@ -77,13 +77,16 @@ exit
 	echo  - proceeding to next update
 	echo Removing KB3080149 (Telemetry)
 	wusa.exe /kb:3080149 /uninstall /quiet /norestart
+	echo  - proceeding to next update
+	echo Removing KB3112336 (Update Client for Windows 8.1 / Server 2012 R2)
+	wusa.exe /kb:3112336 /uninstall /quiet /norestart
 	echo  - Completed!
 	goto hideUpdates
 
 :hideUpdates
 	echo Hiding updates
 	echo.
-	start "hiding" /b /w cscript.exe "%~dp0HideUpdates.vbs" 971033 2952664 2976978 29777598 2990214 3012973 3014460 3015249 3021917 3022345 3035583 3044374 3050265 3050267 3068708 3075249 3075851 3075853 3080149
+	start "hiding" /b /w cscript.exe "%~dp0HideUpdates.vbs" 3112336 971033 2952664 2976978 29777598 2990214 3012973 3014460 3015249 3021917 3022345 3035583 3044374 3050265 3050267 3068708 3075249 3075851 3075853 3080149
 	echo Done.
 	ping 127.0.0.1 -n 2 > null
 	goto checkDownlaodFolder
