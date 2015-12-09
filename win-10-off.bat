@@ -89,15 +89,15 @@ exit
 	start "hiding" /b /w cscript.exe "%~dp0HideUpdates.vbs" 3112336 971033 2952664 2976978 29777598 2990214 3012973 3014460 3015249 3021917 3022345 3035583 3044374 3050265 3050267 3068708 3075249 3075851 3075853 3080149
 	echo Done.
 	ping 127.0.0.1 -n 2 > null
-	goto checkDownlaodFolder
+	goto checkDownloadFolder
 
-:checkDownlaodFolder
+:checkDownloadFolder
 	echo Checking if Windows 10 download has been started...
 	echo.
 	IF NOT EXIST %SystemDrive%\$Windows.~BT\ (
 		echo The Windows 10 download has not been initiated - you are OK!
 	) else (
-		echo Unofortunately Windows 10 download has already started :(
+		echo Unfortunately Windows 10 download has already started :(
 		echo But the removal of these updates has stopped it of further download!
 		echo you can check the directory yourself at %SystemDrive%\$Windows.~BT\
 		echo NOTE: the directory is hidden, so turn on "Show hidden files"
