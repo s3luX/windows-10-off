@@ -1,0 +1,3 @@
+* Open the Start Menu and look for 'Lock Screen Settings.'
+* Under 'Background,' Choose either 'Picture' or 'Slideshow,' instead of Windows Spotlight.
+* Now, Scroll down to 'Get fun facts, tips, tricks, and more on your lock screen' and uncheck this box.
