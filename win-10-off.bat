@@ -82,13 +82,19 @@ exit
 	wusa.exe /kb:3112336 /uninstall /quiet /norestart
 	echo Removing KB3118401 (Update for Universal C Runtime in Windows)
 	wusa.exe /kb:3118401 /uninstall /quiet /norestart
+	echo Removing KB3123862 (Updated capabilities to upgrade Windows 8.1 and Windows 7)
+	wusa.exe /kb:3123862 /uninstall /quiet /norestart
+	echo Removing KB3140185 (March 2016 WAU update for Windows 8.1)
+	wusa.exe /kb:3140185 /uninstall /quiet /norestart
+	echo Removing KB3144850 (Update for downgrade rights for Windows 10)
+	wusa.exe /kb:3144850 /uninstall /quiet /norestart
 	echo  - Completed!
 	goto hideUpdates
 
 :hideUpdates
 	echo Hiding updates
 	echo.
-	start "hiding" /b /w cscript.exe "%~dp0HideUpdates.vbs" 3112336 971033 2952664 2976978 29777598 2990214 3012973 3014460 3015249 3021917 3022345 3035583 3044374 3050265 3050267 3068708 3075249 3075851 3075853 3080149 3112336 3118401
+	start "hiding" /b /w cscript.exe "%~dp0HideUpdates.vbs" 3112336 971033 2952664 2976978 29777598 2990214 3012973 3014460 3015249 3021917 3022345 3035583 3044374 3050265 3050267 3068708 3075249 3075851 3075853 3080149 3112336 3118401 3123862 3140185 3144850
 	echo Done.
 	ping 127.0.0.1 -n 2 > null
 	goto checkDownloadFolder
