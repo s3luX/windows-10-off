@@ -63,3 +63,6 @@ This update enables support for additional upgrade scenarios from Windows 8.1 to
 --
 # KB3118401 - Update for Universal C Runtime in Windows
 The Windows 10 Universal CRT is a Windows operating system component that enables CRT functionality on the Windows operating system. This update allows Windows desktop applications that depend on the Windows 10 Universal CRT release to run on earlier Windows operating systems.
+--
+# KB3123862 - Updated capabilities to upgrade Windows 8.1 and Windows 7
+This update adds capabilities to some computers that lets users easily learn about Windows 10 or start an upgrade to Windows 10.
