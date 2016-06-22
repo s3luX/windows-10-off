@@ -66,3 +66,9 @@ The Windows 10 Universal CRT is a Windows operating system component that enable
 --
 # KB3123862 - Updated capabilities to upgrade Windows 8.1 and Windows 7
 This update adds capabilities to some computers that lets users easily learn about Windows 10 or start an upgrade to Windows 10.
+--
+# KB3140185 - March 2016 WAU update for Windows 8.1
+This article describes an update for Windows Anytime Upgrade (WAU) in Windows 8.1. This update removes the commerce specific entry points for WAU since it's no longer supported for Windows 8.1.
+--
+# KB3144850 - Update enables downgrade rights between Windows 10 IoT and Windows Embedded 8.1 Industry
+The operating system is not activated when it downgrades from Windows 10 IoT to Windows Embedded 8.1 Industry. This update provides the required Product Keys that bridges Windows 10 IoT Enterprise and Windows Embedded 8.1 Industry. The change is made to the Windows Embedded 8.1 license file to accept the Product Keys that has been issued to the Windows 10 IoT Enterprise edition.
